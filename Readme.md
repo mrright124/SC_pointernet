@@ -1,1 +1,1 @@
-This is a update of SC_pointernet
+This is an update of SC_pointernet
